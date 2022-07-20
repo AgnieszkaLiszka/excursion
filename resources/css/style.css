@@ -1,0 +1,32 @@
+
+body {
+    background-color: #000;
+    color: #fff;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
+
+h2 {
+    font-size: 42px;
+    font-weight: 300;
+}
+
+.csoon {
+    color: #7fffd4;
+    font-size: 16px;
+}
+
+.desc {
+    font-size: 21px;
+    color: #808080;
+}
+
+.footer {
+    color: #808080;
+    text-align: right;
+}
